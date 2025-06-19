@@ -2,7 +2,7 @@
 
 In this book, you will learn how to build your first dynamic web page with HTML, CSS, and JavaScript. You will also start backing up your code consistently to Github.
 
-> You have 5 days to complete the core chapters. Then you will spend 3 days doing the group project.
+> You have 4 weeks to complete the core chapters, group project, and self assessment in this book.
 
 ## Core Projects
 
